@@ -1,15 +1,76 @@
 ## Hi there👋 I'm Elly 
 
-A 
+A Fullstack Developer | 🌍 Passionate about building real-world solutions
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a new Project that will be published soon...
-- 🌱 I’m currently learning JavaScript and HTML
-- 👯 I’m looking to collaborate on any new projects...
-- 🤔 I’m looking for help with Programming...
-- 💬 Ask me about ...
-- 📫 How to reach me:hitmanrook876@gmail.com...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+I'm fullstack developer with a strong interest in building responsive, user-friendly web applications. I enjoy working on both the frontend and backend, turning ideas into functional products.
+
+* I'm currently learning: React, Node.js, Docker
+* I'm Working on: a dynamic list app 
+* My Goal: Becoming a skilled fullstack engineer and contributing to impactful projects
+* Fun fact: I love solving problems and exploring new tech
+
+---
+
+## Tech Stack
+
+### Frontend
+
+* HTML5, CSS3, JavaScript
+* React 
+* Responsive Design (Media Queries, Flexbox, Grid)
+
+### Backend
+
+* Node.js / Express
+* REST APIs
+* Authentication (JWT, sessions)
+
+###  Database
+
+* MongoDB 
+* MySQL
+* PostgreSQL
+
+### Tools & Others
+
+* Git & GitHub
+* VS Code
+* Postman
+* Linux basics
+
+---
+
+## 📂 Projects
+
+### 🔹 [Uploading soon]
+
+* Description: 
+* Tech: React, Node.js, MongoDB
+* Live Demo: [link]
+* Repo: [link]
+
+
+## Contact Me
+
+* Email: [ellyouma987@gmai.com]
+* LinkedIn: [your linkedin link]
+* Portfolio: [your website link]
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to:
+
+* Internship opportunities
+* Junior developer roles
+* Collaborating on projects
+
+---
+
+⭐ Feel free to check out my repositories and give a star if you like my work.
+
+
