@@ -56,7 +56,7 @@ I'm fullstack developer with a strong interest in building responsive, user-frie
 ## Contact Me
 
 * Email: [ellyouma987@gmai.com]
-* LinkedIn: [your linkedin link]
+* LinkedIn: https://www.linkedin.com/in/elly-ouma-74a396355/
 * Portfolio: [your website link]
 
 ---
