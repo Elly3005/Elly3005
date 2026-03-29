@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there👋 I'm Elly 
 
-<!--
-**Elly3005/Elly3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A 
 
 Here are some ideas to get you started:
 
