@@ -1,6 +1,6 @@
 ## Hi there👋 I'm Elly 
 
-A Fullstack Developer | 🌍 Passionate about building real-world solutions
+A Fullstack Developer, 🌍 Passionate about building real-world solutions
 
 
 ##  About Me
