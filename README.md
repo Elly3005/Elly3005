@@ -5,7 +5,7 @@ A Fullstack Developer | 🌍 Passionate about building real-world solutions
 
 ##  About Me
 
-I'm fullstack developer with a strong interest in building responsive, user-friendly web applications. I enjoy working on both the frontend and backend, turning ideas into functional products.
+I'm a fullstack developer with a strong interest in building responsive, user-friendly web applications. I enjoy working on both the frontend and backend, turning ideas into functional products.
 
 * I'm currently learning: React, Node.js, Docker
 * I'm Working on: a dynamic list app 
@@ -55,9 +55,9 @@ I'm fullstack developer with a strong interest in building responsive, user-frie
 
 ## Contact Me
 
-* Email: [ellyouma987@gmai.com]
+* Email: [ellyouma987@gmail.com]
 * LinkedIn: https://www.linkedin.com/in/elly-ouma-74a396355/
-* Portfolio: [your website link]
+* Portfolio: [you have to upoad one real soon]
 
 ---
 
